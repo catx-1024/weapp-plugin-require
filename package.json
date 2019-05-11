@@ -1,0 +1,56 @@
+{
+  "_from": "weapp-plugin-require@^0.3.6",
+  "_id": "weapp-plugin-require@0.3.6",
+  "_inBundle": false,
+  "_integrity": "sha512-cStgvLPaw59MV+2GvDsyUsTDlEs9Kd7WNRgLIMHJl7Fm1TUj6rQT4ZWRZskAVU0D+TwAGyJpNs1wyuC3kkNXrQ==",
+  "_location": "/weapp-plugin-require",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "weapp-plugin-require@^0.3.6",
+    "name": "weapp-plugin-require",
+    "escapedName": "weapp-plugin-require",
+    "rawSpec": "^0.3.6",
+    "saveSpec": null,
+    "fetchSpec": "^0.3.6"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/weapp-plugin-require/-/weapp-plugin-require-0.3.6.tgz",
+  "_shasum": "825cefcde6ce2157579c49a8e004d7639b87b054",
+  "_spec": "weapp-plugin-require@^0.3.6",
+  "_where": "/Users/edz/Documents/pro/chongai-miniprogram",
+  "author": {
+    "name": "bzone",
+    "email": "yarnbCoder@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/tolerance-go/weapp-start/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "resolve-cwd": "^2.0.0",
+    "weapp-util-create-plugin": "^0.1.4"
+  },
+  "deprecated": false,
+  "description": "分析 js 文件的 npm 依赖，进行拷贝",
+  "homepage": "https://github.com/tolerance-go/weapp-start",
+  "keywords": [
+    "weapp",
+    "weapp-plugin",
+    "scaffold",
+    "weapp-start"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "name": "weapp-plugin-require",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolerance-go/weapp-start.git"
+  },
+  "scripts": {},
+  "version": "0.3.6"
+}
